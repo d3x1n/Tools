@@ -66,7 +66,7 @@ Host server235
     User xxx
     StrictHostKeyChecking no
 ```
-此时可以从本地通过坚称访问服务器，如
+此时可以从本地通过简称访问服务器，如
 ```
 ssh server231
 ```
